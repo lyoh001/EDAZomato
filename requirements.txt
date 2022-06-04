@@ -1,0 +1,12 @@
+black
+dabl
+imblearn
+ipywidgets
+jupyterlab
+keras-tuner
+matplotlib
+mitoinstaller
+mysql-connector-python
+pandas
+sklearn
+tensorflow
