@@ -10,7 +10,7 @@ This is EDA covering Zomato Dataset to be used as a reference for other develope
 ### 2.1	Logical System Component Overview
 ![Figure 1: Logical Architecture Overview](./.images/workflow.png)
 - Data gets pulled from Azure MySQL server to AWS Sagemaker Studio lab for EDA and model building.
-- [DL Notebooks](https://github.com/lyoh001/EDAZomato/blob/main/notebook/notebook.ipynb) 
+- [Notebook](https://github.com/lyoh001/EDAZomato/blob/main/notebook/notebook.ipynb) 
 
 ## 3 Power BI Dashboard for Visualization
 ![Figure 2: Power BI Dashboarde](./.images/powerbi.png)
